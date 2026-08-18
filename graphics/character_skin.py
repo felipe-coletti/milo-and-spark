@@ -44,17 +44,17 @@ class CharacterSkin:
         up_0 = self._sprite(
             sheet,
             3,
-            61
+            63
         )
         up_1 = self._sprite(
             sheet,
             29,
-            61
+            63
         )
         up_2 = self._sprite(
             sheet,
             55,
-            61
+            63
         )
         right_0 = self._sprite(
             sheet,
